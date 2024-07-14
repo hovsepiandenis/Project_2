@@ -1,0 +1,2 @@
+name = input("Denis: ")
+print("Hi, " + name + "!")
